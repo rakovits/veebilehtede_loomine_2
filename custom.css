@@ -1,0 +1,91 @@
+.lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 2;
+}
+
+.lnr-cart {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.lnr-magnifier {
+    color: #000000;   
+}
+
+.navbar-nav li {
+    margin-right: 3em;
+}
+
+section {
+    margin-top: 40px;
+}
+
+.h {
+    text-align: center;
+}
+
+.card-body {
+    align-content: center;
+}
+
+footer {
+    margin-top: 60px;
+    padding: 5em;
+}
+
+.jumbo {
+    text-align: center;
+}
+
+.page-footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: #DCDCDC;
+}
+
+.footer-information {
+    padding: 5%;
+    margin-left: 10%;
+}
+
+.information {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.footer-logos {
+    margin-left: auto;
+    margin-right: 10%;
+    display: inline-grid;
+    padding: 5%;
+}
+
+.logo {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.pay {
+    text-align: center;
+}
+
+.pealkiri {
+    padding-top: 5%;
+    padding-left: 12.5%;
+    padding-right: 12.5%;
+    text-align: center;
+}
+
+.table {
+    width: 75%;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.meist {
+    text-align: -webkit-center;
+}
